@@ -630,3 +630,5 @@ C:\Users\gabri\source\repos\BlazorTest\BlazorTest\obj\Debug\net5.0\BlazorTest.dl
 C:\Users\gabri\source\repos\BlazorTest\BlazorTest\obj\Debug\net5.0\refint\BlazorTest.dll
 C:\Users\gabri\source\repos\BlazorTest\BlazorTest\obj\Debug\net5.0\BlazorTest.pdb
 C:\Users\gabri\source\repos\BlazorTest\BlazorTest\obj\Debug\net5.0\ref\BlazorTest.dll
+C:\Users\gabri\source\repos\BlazorTest\BlazorTest\obj\Debug\net5.0\RazorDeclaration\Pages\FormComponent.razor.g.cs
+C:\Users\gabri\source\repos\BlazorTest\BlazorTest\obj\Debug\net5.0\Razor\Pages\FormComponent.razor.g.cs
